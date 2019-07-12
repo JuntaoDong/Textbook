@@ -1,6 +1,7 @@
 ## This repo contains the solutions to the textbook excercises. 
 
 + Problem Solving with Algorithms and Data Structures using Python
+    [Interactive book click here](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
     [Chapter 1](https://github.com/JuntaoDong/Textbook/blob/master/Problem%20Solving%20with%20Algorithms%20and%20Data%20Structures%20using%20Python/Chap1.ipynb)
     [Chapter 2](https://github.com/JuntaoDong/Textbook/blob/master/Problem%20Solving%20with%20Algorithms%20and%20Data%20Structures%20using%20Python/Chap2.ipynb)
