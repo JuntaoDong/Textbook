@@ -18,3 +18,6 @@
     [Chapter 7](https://github.com/JuntaoDong/Textbook/blob/master/Problem%20Solving%20with%20Algorithms%20and%20Data%20Structures%20using%20Python/Chap7.ipynb)
 
 + Craking the Coding Interviews in Python
+
+    [1. Arrays and Strings]()
+    
