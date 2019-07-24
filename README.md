@@ -20,4 +20,7 @@
 + Craking the Coding Interviews in Python
 
     [1. Arrays and Strings]()
+
+    [2. Linked Lists]()
+
     
