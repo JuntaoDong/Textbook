@@ -27,4 +27,6 @@
     [3. Stacks and Queues]()
 
     [4. Trees and Graphs]()
+
+    [5. Bits Manipulation]()
     
