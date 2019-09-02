@@ -34,7 +34,7 @@
 
 + [Chapter 8. Recursion and Dynamic Programming](https://github.com/JuntaoDong/Textbook/blob/master/Cracking%20the%20Coding%20Interview/8.%20Recursion%20and%20Dynamic%20Programming.ipynb)
 
-+ Elements of Programming Interviews in Python
+### Elements of Programming Interviews in Python
 
 + [Chapter 4. Primitive Types](https://github.com/JuntaoDong/Textbook/blob/master/Elements%20of%20Programming%20Interviews%20in%20Python/Chap4.%20Primitive%20Types.ipynb)
 
